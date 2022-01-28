@@ -1,0 +1,30 @@
+.all{
+    text-align: center;
+    height: 700%;
+    background-color: #f2f2f2;
+    width:50%;
+    margin:auto;
+}
+
+.titre {
+    display:flex ;
+    padding-left:5% ;
+    padding-top: 5%;
+    color:  #b33c00;
+    padding-bottom: 4%;
+
+}
+.car{
+    font-size: 250%;
+    padding-left:3% ;
+    padding-right: 2%;
+
+}
+#diesel {
+    margin-right: 0%;
+}
+#gazoline {
+margin-right: 0.7%;
+}
+
+
