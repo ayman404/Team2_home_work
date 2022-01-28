@@ -1,0 +1,23 @@
+.formul{
+    width: 300px;
+    height: 300px;
+    background-color: aqua;
+    position: absolute;
+    top: 27%;
+    left: 40%;
+
+
+
+}
+.formulaire li{
+    text-align: center;
+
+
+}
+#bttn{
+    background: #efeaeac4;
+    padding: 5px;
+    text-decoration: none;
+    color: black;
+
+}
